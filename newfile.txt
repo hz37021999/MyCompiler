@@ -1,0 +1,10 @@
+PROGRAM eg1;
+var a,b,c:integer;
+BEGIN
+write('please enter a and b:');
+read(a,b);
+c:=a;
+d:=b;
+e:=c+d;
+writeln('c+d=',e);
+END.

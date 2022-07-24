@@ -1,2 +1,2 @@
 # MyCompiler
-A simple Operating System Implementation for the course **Compiler Principles**
+A simple Compiler Implementation for the course **Compiler Principles**
